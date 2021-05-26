@@ -4,7 +4,6 @@ from selenium.webdriver.common.keys import Keys
 print("sample test case started")
 driver = webdriver.Chrome(
     'C:/Users/roro/Downloads/chromedriver_win32/chromedriver.exe')
-# driver=webdriver.firefox()from selenium import webdriver  
 import pyttsx3
 
 import time  
